@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    <link rel="stylesheet" href="https://example.com/css/main.css">
 }
 .full-website{
     width: 95%;
